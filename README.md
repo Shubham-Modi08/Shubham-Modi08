@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shubham-Modi08
-- 👀 I’m interested in Android Development, ReactJS & UI/UX 
+- 👀 I’m interested in Android App Development, ReactJS & UI/UX 
 - 🌱 I’m currently learning Kotlin and ReactJS.
 - 📫 How to reach me - mailshubham8995@gmail.com
 
